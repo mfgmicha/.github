@@ -1,1 +1,1 @@
-# .github
+# Repo for mfgmicha github profile
